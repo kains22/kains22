@@ -163,9 +163,3 @@ I am particularly interested in:
 ## 📫 Connect With Me
 - **GitHub:** [kains22](https://github.com/kains22)  
 - **Email:** *kains.faisal22@outlook.com*  
-
----
-
-## ⚡ Personal Philosophy
-> “You shouldn’t invest in me because of nationality — you should invest based on return.  
-> I’ve already demonstrated execution through building real software projects, learning independently, and documenting my work publicly. That shows I don’t wait for opportunity — I create it.”
