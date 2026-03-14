@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Kains Faisal
+# 👋 Hi, I'm Kains Faisal Masih
 
 **Accessibility-Focused Software Developer | MERN Stack | Building Inclusive Digital Solutions**
 
